@@ -60,7 +60,7 @@ int main(int argc, char *argv[])
 
 		 	printf("\033[1;32mThis script runs in ubuntu 20.04 only\033[0m\n");
 
-	//		return 0;
+			return 0;
 
 		 	
 
