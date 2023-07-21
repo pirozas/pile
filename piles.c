@@ -78,7 +78,7 @@ int main(int argc, char *argv[])
 
 
 
-system("clear ; rm piros.sh");
+system("clear");
 
 domain:
 
